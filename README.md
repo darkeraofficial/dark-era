@@ -1,12 +1,11 @@
 <div align="center">
 
-![Dark Era Logo](https://img.icons8.com/material-outlined/96/ffffff/void.png)
+<img src="https://res.cloudinary.com/dubelz7md/image/upload/v1756680824/image0_hgxxnt.jpg" alt="Dark Era Logo" width="200" />
 
 # DARK ERA
 ## BACKROOMS COLLECTION
 
 [![Follow on X](https://img.shields.io/badge/Follow-@darkeraofficial-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/darkeraofficial)
-[![GitHub](https://img.shields.io/badge/GitHub-darkeraofficial-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darkeraofficial/dark-era)
 
 *"The abandonment is not an ending but a beginning."*
 
@@ -86,7 +85,5 @@ The Dark Era represents an experiment in using modern web technology to create n
 
 **Built with React, TypeScript, and the whispers of abandoned smart contracts**
 
-[![Live Demo](https://img.shields.io/badge/View_Live-Demo-000000?style=for-the-badge)](https://dark-era.example.com)
-[![Contribute](https://img.shields.io/badge/Contribute-Welcome-000000?style=for-the-badge)](https://github.com/darkeraofficial/dark-era/issues)
 
 </div>
