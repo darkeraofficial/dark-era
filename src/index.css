@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure full black background coverage */
+html, body {
+  background-color: #000000 !important;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+#root {
+  background-color: #000000;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
